@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+![Screenshot 2023-07-13 at 01 05 36](https://github.com/rajchatterz/Counter-App/assets/45287321/7b573ff6-e747-4b2c-b2ec-025390ab06b2)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
